@@ -1,0 +1,14 @@
+C:\Users\Flavio\Desktop\Dev.io\Portifolio\C#\cSharpNaessencia\EssencialSharp\bin\Debug\net9.0\EssencialSharp.exe
+C:\Users\Flavio\Desktop\Dev.io\Portifolio\C#\cSharpNaessencia\EssencialSharp\bin\Debug\net9.0\EssencialSharp.deps.json
+C:\Users\Flavio\Desktop\Dev.io\Portifolio\C#\cSharpNaessencia\EssencialSharp\bin\Debug\net9.0\EssencialSharp.runtimeconfig.json
+C:\Users\Flavio\Desktop\Dev.io\Portifolio\C#\cSharpNaessencia\EssencialSharp\bin\Debug\net9.0\EssencialSharp.dll
+C:\Users\Flavio\Desktop\Dev.io\Portifolio\C#\cSharpNaessencia\EssencialSharp\bin\Debug\net9.0\EssencialSharp.pdb
+C:\Users\Flavio\Desktop\Dev.io\Portifolio\C#\cSharpNaessencia\EssencialSharp\obj\Debug\net9.0\EssencialSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Desktop\Dev.io\Portifolio\C#\cSharpNaessencia\EssencialSharp\obj\Debug\net9.0\EssencialSharp.AssemblyInfoInputs.cache
+C:\Users\Flavio\Desktop\Dev.io\Portifolio\C#\cSharpNaessencia\EssencialSharp\obj\Debug\net9.0\EssencialSharp.AssemblyInfo.cs
+C:\Users\Flavio\Desktop\Dev.io\Portifolio\C#\cSharpNaessencia\EssencialSharp\obj\Debug\net9.0\EssencialSharp.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Desktop\Dev.io\Portifolio\C#\cSharpNaessencia\EssencialSharp\obj\Debug\net9.0\EssencialSharp.dll
+C:\Users\Flavio\Desktop\Dev.io\Portifolio\C#\cSharpNaessencia\EssencialSharp\obj\Debug\net9.0\refint\EssencialSharp.dll
+C:\Users\Flavio\Desktop\Dev.io\Portifolio\C#\cSharpNaessencia\EssencialSharp\obj\Debug\net9.0\EssencialSharp.pdb
+C:\Users\Flavio\Desktop\Dev.io\Portifolio\C#\cSharpNaessencia\EssencialSharp\obj\Debug\net9.0\EssencialSharp.genruntimeconfig.cache
+C:\Users\Flavio\Desktop\Dev.io\Portifolio\C#\cSharpNaessencia\EssencialSharp\obj\Debug\net9.0\ref\EssencialSharp.dll

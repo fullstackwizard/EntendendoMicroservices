@@ -1,0 +1,21 @@
+@model IEnumerable<PedidoCrud.Models.Produto>
+
+<h2>Lista de Produtos</h2>
+<a href="/Produto/Criar">Adicionar Produto</a>
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Nome</th>
+        <th>Preço</th>
+        <th>Tipo do Produto</th>
+    </tr>
+    @foreach (var produto in Model)
+    {
+        <tr style="padding: 10px">
+            <td>@produto.Id</td>
+            <td>@produto.Nome</td>
+            <td>@produto.Preco</td>
+            <td>@produto.TipoProduto</td>
+        </tr>
+    }
+</table>
