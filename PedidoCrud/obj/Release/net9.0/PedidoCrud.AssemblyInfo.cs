@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PedidoCrud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78d6e43b389913669fbdff8fe4eef70e9de4c59c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PedidoCrud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PedidoCrud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

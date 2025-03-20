@@ -1,0 +1,14 @@
+@model PedidoCrud.Models.Produto
+
+<h2>Editar Produto</h2>
+<form asp-action="Editar" method="post">
+    <input type="hidden" asp-for="Id" />
+    <label>Nome:</label>
+    <input asp-for="Nome" />
+    <label>Preço:</label>
+    <input asp-for="Preco" />
+    <label>TipoProduto:</label>
+    <input asp-for="TipoProduto" />
+    <button type="submit">Salvar</button>
+    <a href="/Produto/Index" class="btn btn-secondary">Cancelar</a>
+</form>

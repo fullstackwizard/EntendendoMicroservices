@@ -35,5 +35,28 @@ public class ProdutoController : Controller
         return View(produto);
     }
 
+    public IActionResult Editar(int id) {
+        var produto = _context.Produtos.Find(id);
+        if (produto == null)
+        {
+            return NotFound();
+        }
+        return View(produto);
+    }
+
+    [HttpPost]
+    public IActionResult Editar([Bind("Id,Nome,Preco,TipoProduto")] Produto produto){
+        if (ModelState.IsValid)
+        {
+            _context.Produtos.Update(produto);
+            _context.SaveChanges();
+            return RedirectToAction("Index");
+        }
+        return View(produto);
+    }
+        
+
+
+
    
 }
