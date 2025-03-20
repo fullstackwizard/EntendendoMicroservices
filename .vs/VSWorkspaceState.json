@@ -1,8 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\cSharpNaessencia",
-    "\\cSharpNaessencia\\EssencialSharp",
+    "\\PedidoCrud",
     "\\PedidoCrud\\Db",
     "\\PedidoCrud\\Models",
     "\\PedidoCrud\\obj",
@@ -11,6 +10,6 @@
     "\\PedidoCrud\\Views\\Produto",
     "\\PedidoCrud\\Views\\Shared"
   ],
-  "SelectedNode": "\\cSharpNaessencia\\EssencialSharp\\ParOuImpar.cs",
+  "SelectedNode": "\\PedidoCrud\\Models\\Produto.cs",
   "PreviewInSolutionExplorer": false
 }

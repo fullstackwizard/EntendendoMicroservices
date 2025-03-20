@@ -26,7 +26,7 @@ namespace ParOuImpar
 
             return double.TryParse(Console.ReadLine(), out double resultado) ? resultado : 0;
         }
-    }
+        
 }
 
 /* Metodo Direto 

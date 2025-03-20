@@ -12,3 +12,4 @@ C:\Users\Flavio\Desktop\Dev.io\Portifolio\C#\cSharpNaessencia\EssencialSharp\obj
 C:\Users\Flavio\Desktop\Dev.io\Portifolio\C#\cSharpNaessencia\EssencialSharp\obj\Debug\net9.0\EssencialSharp.pdb
 C:\Users\Flavio\Desktop\Dev.io\Portifolio\C#\cSharpNaessencia\EssencialSharp\obj\Debug\net9.0\EssencialSharp.genruntimeconfig.cache
 C:\Users\Flavio\Desktop\Dev.io\Portifolio\C#\cSharpNaessencia\EssencialSharp\obj\Debug\net9.0\ref\EssencialSharp.dll
+C:\Users\Flavio\Desktop\Dev.io\Portifolio\C#\cSharpNaessencia\EssencialSharp\obj\Debug\net9.0\EssencialSharp.sourcelink.json
